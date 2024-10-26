@@ -1,0 +1,19 @@
+*{
+    padding :0;
+    margin:0;
+}
+.header{
+  background-color:rgb(red, green, blue) #000;
+  /*display:flex;*/
+  justify-content:space-between;
+  padding: 0px 10px;
+}
+.header.logo img{
+    width: 50px;
+    height: 50px;
+}
+
+img{
+width: 50%;
+height: 50%;
+}
